@@ -1,1 +1,2 @@
 ветки  master и ветка demo идентичны
+я вижу 11 комимтов https://github.com/zhukvo/human/commits/master/
